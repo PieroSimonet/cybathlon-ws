@@ -16,3 +16,6 @@
 [submodule "src/rosneuro_processing"]
 	path = src/rosneuro_processing
 	url = git@github.com:cybathlon-whiteam/rosneuro_processing.git
+[submodule "src/rosneuro_cybathlon_controller"]
+	path = src/rosneuro_cybathlon_controller
+	url = git@github.com:cybathlon-whiteam/rosneuro_cybathlon_controller.git
