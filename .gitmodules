@@ -1,0 +1,18 @@
+[submodule "src/rosneuro_integrator"]
+	path = src/rosneuro_integrator
+	url = https://github.com/neurorobotics-iaslab/rosneuro_integrator.git
+[submodule "src/cybathlon_feedback"]
+	path = src/cybathlon_feedback
+	url = git@github.com:cybathlon-whiteam/cybathlon_feedback.git
+[submodule "src/cybathlon_launchers"]
+	path = src/cybathlon_launchers
+	url = git@github.com:cybathlon-whiteam/cybathlon_launchers.git
+[submodule "rosneuro_processing"]
+	path = rosneuro_processing
+	url = git@github.com:cybathlon-whiteam/rosneuro_processing.git
+[submodule "rosneuro_integrator_exponential"]
+	path = rosneuro_integrator_exponential
+	url = git@github.com:neurorobotics-iaslab/rosneuro_integrator_exponential.git
+[submodule "rosneuro_cybathlon_interface"]
+	path = rosneuro_cybathlon_interface
+	url = git@github.com:cybathlon-whiteam/rosneuro_cybathlon_interface.git
