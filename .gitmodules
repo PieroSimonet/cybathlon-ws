@@ -19,3 +19,6 @@
 [submodule "src/rosneuro_cybathlon_controller"]
 	path = src/rosneuro_cybathlon_controller
 	url = git@github.com:cybathlon-whiteam/rosneuro_cybathlon_controller.git
+[submodule "src/cybathlon_eog"]
+	path = src/cybathlon_eog
+	url = git@github.com:neurorobotics-iaslab/cybathlon_eog.git
