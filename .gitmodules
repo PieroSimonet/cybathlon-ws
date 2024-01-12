@@ -25,3 +25,6 @@
 [submodule "src/rosneuro_feedback_wheel"]
 	path = src/rosneuro_feedback_wheel
 	url = git@github.com:neurorobotics-iaslab/rosneuro_feedback_wheel.git
+[submodule "src/cybathlon_auto_reconfigure"]
+	path = src/cybathlon_auto_reconfigure
+	url = https://github.com/cybathlon-whiteam/cybathlon_auto_reconfigure
